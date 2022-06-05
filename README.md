@@ -2,7 +2,9 @@
 It is a classic casino game "Black Jack". I've used HTML, CSS and Javascript for this project. Also I have added some sound effect to make game interesting.
 
 ## Rules
-Game Rules Blackjack is a popular card game that is simple to play. The object of the game is to beat the dealer in one of the following ways:
+Game Rules
+
+Blackjack is a popular card game that is simple to play. The object of the game is to beat the dealer in one of the following ways:
 
 • Get 21 points on the player's first two cards (called a "blackjack" or "natural") without a dealer blackjack;
 
